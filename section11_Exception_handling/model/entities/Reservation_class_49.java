@@ -1,0 +1,67 @@
+<<<<<<<< HEAD:section11_Exception_handling/model/entities/Reservation_class_49.java
+package section14_Exception_handling.model.entities;
+========
+package section14_Exception_handling.entities
+>>>>>>>> e9e1883e200cf0655b51bbeebef621077a5bbd54:section14_Exception_handling/model/entities/Reservation_class_49.java
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
+
+public class Reservation_class_49 {
+
+	private Integer roomNumber;
+	private Date checkIn;
+	private Date checkOut;
+
+	private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+<<<<<<<< HEAD:section11_Exception_handling/model/entities/Reservation_class_49.java
+	
+========
+
+>>>>>>>> e9e1883e200cf0655b51bbeebef621077a5bbd54:section14_Exception_handling/model/entities/Reservation_class_49.java
+	public Reservation_class_49(Integer roomNumber, Date checkIn, Date checkOut) {
+		this.roomNumber = roomNumber;
+		this.checkIn = checkIn;
+		this.checkOut = checkOut;
+	}
+
+	public Integer getRoomNumber() {
+		return roomNumber;
+	}
+
+	public void setRoomNumber(Integer roomNumber) {
+		this.roomNumber = roomNumber;
+	}
+
+	public Date getCheckIn() {
+		return checkIn;
+	}
+
+	public Date getCheckOut() {
+		return checkOut;
+	}
+
+	public long duration() {
+		long diff = checkOut.getTime() - checkIn.getTime();
+		return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS);
+	}
+
+	public void updateDates(Date checkIn, Date checkOut) {
+		this.checkIn = checkIn;
+		this.checkOut = checkOut;
+	}
+
+	@Override
+	public String toString() {
+		return "Room "
+			+ roomNumber
+			+ ", check-in: "
+			+ sdf.format(checkIn)
+			+ ", check-out: "
+			+ sdf.format(checkOut)
+			+ ", "
+			+ duration()
+			+ " nights";
+	}
+}
