@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:section11_Exception_handling/model/entities/Reservation_class_49.java
-package section14_Exception_handling.model.entities;
-========
-package section14_Exception_handling.entities
->>>>>>>> e9e1883e200cf0655b51bbeebef621077a5bbd54:section14_Exception_handling/model/entities/Reservation_class_49.java
+package section11_Exception_handling.model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -15,11 +11,8 @@ public class Reservation_class_49 {
 	private Date checkOut;
 
 	private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-<<<<<<<< HEAD:section11_Exception_handling/model/entities/Reservation_class_49.java
-	
-========
 
->>>>>>>> e9e1883e200cf0655b51bbeebef621077a5bbd54:section14_Exception_handling/model/entities/Reservation_class_49.java
+
 	public Reservation_class_49(Integer roomNumber, Date checkIn, Date checkOut) {
 		this.roomNumber = roomNumber;
 		this.checkIn = checkIn;

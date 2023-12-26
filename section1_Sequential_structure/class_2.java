@@ -1,4 +1,4 @@
-package section4_Sequential_structure;
+package section1_Sequential_structure;
 import java.util.Locale;
 
 public class class_2 {

@@ -1,4 +1,4 @@
-package section9_Constructors_this_word_overloading_encapsulation.entities;
+package section6_Constructors_this_word_overloading_encapsulation.entities;
 
 public class Product_class_24 {
 	private String name;

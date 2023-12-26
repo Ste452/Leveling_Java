@@ -1,9 +1,9 @@
-package section9_Constructors_this_word_overloading_encapsulation;
+package section6_Constructors_this_word_overloading_encapsulation;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import section9_Constructors_this_word_overloading_encapsulation.entities.Product_class_24;
+import section6_Constructors_this_word_overloading_encapsulation.entities.Product_class_24;
 
 public class class_24 {
 	public static void main(String[] args) {

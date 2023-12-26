@@ -1,4 +1,4 @@
-package exercise_module1_sequencial_structure.main.src;
+package section1_Sequential_structure.exercise_module1_sequencial_structure.main.src;
 
 public class exercise3_module_1 {
 

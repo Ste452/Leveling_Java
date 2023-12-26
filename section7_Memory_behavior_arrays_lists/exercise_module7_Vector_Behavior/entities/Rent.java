@@ -1,4 +1,4 @@
-package exercise_module7_Vector_Behavior.entities;
+package section7_Memory_behavior_arrays_lists.exercise_module7_Vector_Behavior.entities;
 
 public class Rent {
 

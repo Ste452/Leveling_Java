@@ -1,4 +1,4 @@
-package exercise_module7_Vector_Behavior.main.src;
+package section7_Memory_behavior_arrays_lists.exercise_module7_Vector_Behavior.main.src;
 
 import java.util.Locale;
 import java.util.Scanner;

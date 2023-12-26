@@ -1,4 +1,4 @@
-package section13_Inheritance_and_polymorphism.entities;
+package section10_Inheritance_and_polymorphism.entities;
 
 public class BusinessAccount extends Account {
 

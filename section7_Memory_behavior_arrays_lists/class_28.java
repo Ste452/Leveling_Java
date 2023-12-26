@@ -1,4 +1,4 @@
-package section10_Memory_behavior_arrays_lists;
+package section7_Memory_behavior_arrays_lists;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

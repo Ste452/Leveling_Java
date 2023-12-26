@@ -1,8 +1,8 @@
-package section8_Introduction_to_Object_Oriented_Programming;
+package section5_Introduction_to_Object_Oriented_Programming;
 import java.util.Locale;
 import java.util.Scanner;
 
-import section8_Introduction_to_Object_Oriented_Programming.util.Calculator_class21;
+import section5_Introduction_to_Object_Oriented_Programming.util.Calculator_class21;
 
 public class class_22 {
 

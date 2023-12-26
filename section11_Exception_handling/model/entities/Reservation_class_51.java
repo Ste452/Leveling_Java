@@ -1,10 +1,10 @@
-package section14_Exception_handling.model.entities;
+package section11_Exception_handling.model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import section14_Exception_handling.model.exception.DomainException;
+import section11_Exception_handling.model.exception.DomainException;
 
 public class Reservation_class_51 {
 

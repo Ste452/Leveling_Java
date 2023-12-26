@@ -1,12 +1,12 @@
-package section14_Exception_handling;
+package section11_Exception_handling;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import section14_Exception_handling.model.entities.Reservation_class_51;
-import section14_Exception_handling.model.exception.DomainException;
+import section11_Exception_handling.model.entities.Reservation_class_51;
+import section11_Exception_handling.model.exception.DomainException;
 
 public class class_51 {
 

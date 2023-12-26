@@ -1,4 +1,4 @@
-package section4_Sequential_structure;
+package section1_Sequential_structure;
 import java.util.Scanner;
 
 public class class_5 {

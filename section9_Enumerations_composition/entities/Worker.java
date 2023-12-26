@@ -1,10 +1,10 @@
-package section12_Enumerations_composition.entities;
+package section9_Enumerations_composition.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import section12_Enumerations_composition.entities.enums.WorkerLevel;
+import section9_Enumerations_composition.entities.enums.WorkerLevel;
 
 
 public class Worker {

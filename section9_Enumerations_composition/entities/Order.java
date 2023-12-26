@@ -1,8 +1,8 @@
-package section12_Enumerations_composition.entities;
+package section9_Enumerations_composition.entities;
 
 import java.util.Date;
 
-import section9_Constructors_this_word_overloading_encapsulation.entities.Product_class_24;
+import section6_Constructors_this_word_overloading_encapsulation.entities.Product_class_24;
 
 public class Order {
 	private Date date;

@@ -1,9 +1,9 @@
-package exercise_module6_Constructors_and_word_this.main.src;
+package section6_Constructors_this_word_overloading_encapsulation.exercise_module6_Constructors_and_word_this.main.src;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import exercise_module6_Constructors_and_word_this.entities.methods_Banking_Account;
+import section6_Constructors_this_word_overloading_encapsulation.exercise_module6_Constructors_and_word_this.entities.methods_Banking_Account;
 
 public class register_Banking_Account {
 

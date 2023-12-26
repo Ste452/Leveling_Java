@@ -1,4 +1,4 @@
-package section6_Repetitive_structures;
+package section3_Repetitive_structures;
 
 import java.util.Locale;
 

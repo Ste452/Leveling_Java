@@ -1,4 +1,4 @@
-package exercise_module_10_Inheritance_and_Polymorphism.Entities;
+package section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism.Entities;
 
 public class Imported_Product extends Product {
     private Double customsFee;

@@ -1,4 +1,5 @@
-package section5_Conditional_structure;
+package section2_Conditional_structure;
+
 import java.util.Scanner;
 import java.util.Locale;
 

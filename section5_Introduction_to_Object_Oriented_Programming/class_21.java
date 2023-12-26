@@ -1,9 +1,9 @@
-package section8_Introduction_to_Object_Oriented_Programming;
+package section5_Introduction_to_Object_Oriented_Programming;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import section8_Introduction_to_Object_Oriented_Programming.entities.Triangle_class_21;
+import section5_Introduction_to_Object_Oriented_Programming.entities.Triangle_class_21;
 public class class_21 {
 
 	public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package exercise_module5_Introduction_to_object_oriented_programming.main.src;
+package section5_Introduction_to_Object_Oriented_Programming.exercise_module5_Introduction_to_object_oriented_programming.main.src;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import exercise_module5_Introduction_to_object_oriented_programming.entities.Salary_problem;
+import section5_Introduction_to_Object_Oriented_Programming.exercise_module5_Introduction_to_object_oriented_programming.entities.Salary_problem;
 
 public class application_salary {
 

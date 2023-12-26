@@ -1,4 +1,4 @@
-package exercise_module_10_Inheritance_and_Polymorphism;
+package section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -8,9 +8,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exercise_module_10_Inheritance_and_Polymorphism.Entities.Imported_Product;
-import exercise_module_10_Inheritance_and_Polymorphism.Entities.Product;
-import exercise_module_10_Inheritance_and_Polymorphism.Entities.Used_Product;
+import section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism.Entities.Imported_Product;
+import section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism.Entities.Product;
+import section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism.Entities.Used_Product;
 
 public class exercise1_inheritance_and_polymorphism {
     public static void main(String[] args) throws ParseException {

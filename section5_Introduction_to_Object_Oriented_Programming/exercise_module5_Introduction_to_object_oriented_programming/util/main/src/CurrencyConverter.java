@@ -1,4 +1,4 @@
-package exercise_module5_Introduction_to_object_oriented_programming.util.main.src;
+package section5_Introduction_to_Object_Oriented_Programming.exercise_module5_Introduction_to_object_oriented_programming.util.main.src;
 
 public class CurrencyConverter {
 	public double exchangeRate;
