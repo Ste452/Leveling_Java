@@ -1,4 +1,4 @@
-package section14_Exception_handling;
+package section11_Exception_handling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

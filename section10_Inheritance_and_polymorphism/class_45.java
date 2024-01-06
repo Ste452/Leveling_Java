@@ -1,14 +1,14 @@
-package section13_Inheritance_and_polymorphism;
+package section10_Inheritance_and_polymorphism;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import section13_Inheritance_and_polymorphism.entities.Circle;
-import section13_Inheritance_and_polymorphism.entities.Rectangle;
-import section13_Inheritance_and_polymorphism.entities.Shape;
-import section13_Inheritance_and_polymorphism.enums.Color;
+import section10_Inheritance_and_polymorphism.entities.Circle;
+import section10_Inheritance_and_polymorphism.entities.Rectangle;
+import section10_Inheritance_and_polymorphism.entities.Shape;
+import section10_Inheritance_and_polymorphism.enums.Color;
 
 public class class_45 {
 

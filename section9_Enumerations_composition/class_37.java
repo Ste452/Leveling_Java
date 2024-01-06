@@ -1,9 +1,9 @@
-package section12_Enumerations_composition;
+package section9_Enumerations_composition;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import section12_Enumerations_composition.entities.Comment;
-import section12_Enumerations_composition.entities.Post;
+import section9_Enumerations_composition.entities.Comment;
+import section9_Enumerations_composition.entities.Post;
 
 public class class_37 {
 

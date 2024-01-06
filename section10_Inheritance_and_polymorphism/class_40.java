@@ -1,8 +1,8 @@
-package section13_Inheritance_and_polymorphism;
+package section10_Inheritance_and_polymorphism;
 
-import section13_Inheritance_and_polymorphism.entities.Account;
-import section13_Inheritance_and_polymorphism.entities.BusinessAccount;
-import section13_Inheritance_and_polymorphism.entities.SavigsAccount;
+import section10_Inheritance_and_polymorphism.entities.Account;
+import section10_Inheritance_and_polymorphism.entities.BusinessAccount;
+import section10_Inheritance_and_polymorphism.entities.SavigsAccount;
 
 public class class_40 {
 

@@ -1,11 +1,11 @@
-package section13_Inheritance_and_polymorphism;
+package section10_Inheritance_and_polymorphism;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import section13_Inheritance_and_polymorphism.entities.Employee_43;
-import section13_Inheritance_and_polymorphism.entities.OutsourcedEmployee;
+import section10_Inheritance_and_polymorphism.entities.Employee_43;
+import section10_Inheritance_and_polymorphism.entities.OutsourcedEmployee;
 
 public class class_43 {
 

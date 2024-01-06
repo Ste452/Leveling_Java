@@ -1,4 +1,4 @@
-package section5_Conditional_structure;
+package section2_Conditional_structure;
 import java.util.Locale;
 
 public class class_11 {

@@ -1,4 +1,4 @@
-package exercise_module6_Constructors_and_word_this.entities;
+package section6_Constructors_this_word_overloading_encapsulation.exercise_module6_Constructors_and_word_this.entities;
 
 public class methods_Banking_Account {
 	private String holder;

@@ -1,11 +1,11 @@
-package exercise_module7_Vector_Behavior.main.src;
+package section7_Memory_behavior_arrays_lists.exercise_module7_Vector_Behavior.main.src;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exercise_module5_Introduction_to_object_oriented_programming.entities.Employee;
+import section5_Introduction_to_Object_Oriented_Programming.exercise_module5_Introduction_to_object_oriented_programming.entities.Employee;
 
 public class application_Employee {
 

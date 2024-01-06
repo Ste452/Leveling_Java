@@ -1,4 +1,4 @@
-package section6_Repetitive_structures;
+package section3_Repetitive_structures;
 
 public class class_14 {
     public static void main(String[] args) {

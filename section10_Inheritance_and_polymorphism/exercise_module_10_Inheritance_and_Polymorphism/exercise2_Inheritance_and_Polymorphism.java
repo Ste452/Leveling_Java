@@ -1,4 +1,4 @@
-package exercise_module_10_Inheritance_and_Polymorphism;
+package section10_Inheritance_and_polymorphism.exercise_module_10_Inheritance_and_Polymorphism;
 import java.util.Scanner;
 
 public class exercise2_Inheritance_and_Polymorphism {

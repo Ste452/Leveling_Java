@@ -1,4 +1,4 @@
-package exercise_module4_other_topics_in_java.main.src;
+package section4_Other_basic_Java_topics.exercise_module4_other_topics_in_java.main.src;
 
 import java.util.Locale;
 import java.util.Scanner;

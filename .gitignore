@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+*bin
+.settings/
+.metadata/
+
 
 # Log file
 *.log

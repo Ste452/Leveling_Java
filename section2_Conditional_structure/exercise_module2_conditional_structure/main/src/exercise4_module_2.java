@@ -1,4 +1,4 @@
-package section5_Conditional_structure.exercise_module2_conditional_structure.main.src;
+package section2_Conditional_structure.exercise_module2_conditional_structure.main.src;
 
 import java.util.Locale;
 import java.util.Scanner;

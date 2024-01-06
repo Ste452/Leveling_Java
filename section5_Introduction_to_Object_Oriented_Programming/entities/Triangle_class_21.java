@@ -1,4 +1,4 @@
-package section8_Introduction_to_Object_Oriented_Programming.entities;
+package section5_Introduction_to_Object_Oriented_Programming.entities;
 
 public class Triangle_class_21 {
 

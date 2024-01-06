@@ -1,8 +1,8 @@
-package section10_Memory_behavior_arrays_lists;
+package section7_Memory_behavior_arrays_lists;
 import java.util.Locale;
 import java.util.Scanner;
 
-import section10_Memory_behavior_arrays_lists.entities.Product_class_26;
+import section7_Memory_behavior_arrays_lists.entities.Product_class_26;
 
 public class class_26 {
 

@@ -1,6 +1,6 @@
-package section13_Inheritance_and_polymorphism.entities;
+package section10_Inheritance_and_polymorphism.entities;
 
-import section13_Inheritance_and_polymorphism.enums.Color;
+import section10_Inheritance_and_polymorphism.enums.Color;
 
 public class Circle extends Shape {
 	

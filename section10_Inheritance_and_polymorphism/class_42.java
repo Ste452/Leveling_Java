@@ -1,6 +1,7 @@
-package section13_Inheritance_and_polymorphism;
-import section13_Inheritance_and_polymorphism.entities.Account;
-import section13_Inheritance_and_polymorphism.entities.SavigsAccount;
+package section10_Inheritance_and_polymorphism;
+
+import section10_Inheritance_and_polymorphism.entities.Account;
+import section10_Inheritance_and_polymorphism.entities.SavigsAccount;
 
 public class class_42 {
 

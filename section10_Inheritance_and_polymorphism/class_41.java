@@ -1,5 +1,6 @@
-package section13_Inheritance_and_polymorphism;
-import section13_Inheritance_and_polymorphism.entities.Account;
+package section10_Inheritance_and_polymorphism;
+
+import section10_Inheritance_and_polymorphism.entities.Account;
 
 public class class_41 {
 

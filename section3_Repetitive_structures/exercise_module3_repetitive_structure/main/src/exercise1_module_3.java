@@ -1,4 +1,4 @@
-package section6_Repetitive_structures.exercise_module3_repetitive_structure.main.src;
+package section3_Repetitive_structures.exercise_module3_repetitive_structure.main.src;
 
 import java.util.Scanner;
 

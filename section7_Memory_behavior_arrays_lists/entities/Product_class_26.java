@@ -1,4 +1,4 @@
-package section10_Memory_behavior_arrays_lists.entities;
+package section7_Memory_behavior_arrays_lists.entities;
 
 public class Product_class_26 {
 	private String name;

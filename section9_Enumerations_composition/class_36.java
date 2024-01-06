@@ -1,14 +1,14 @@
-package section12_Enumerations_composition;
+package section9_Enumerations_composition;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import section12_Enumerations_composition.entities.Department;
-import section12_Enumerations_composition.entities.HourContract;
-import section12_Enumerations_composition.entities.Worker;
-import section12_Enumerations_composition.entities.enums.WorkerLevel;
+import section9_Enumerations_composition.entities.Department;
+import section9_Enumerations_composition.entities.HourContract;
+import section9_Enumerations_composition.entities.Worker;
+import section9_Enumerations_composition.entities.enums.WorkerLevel;
 
 public class class_36 {
 

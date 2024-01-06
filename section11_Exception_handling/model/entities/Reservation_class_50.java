@@ -1,4 +1,4 @@
-package section14_Exception_handling.model.entities;
+package section11_Exception_handling.model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
