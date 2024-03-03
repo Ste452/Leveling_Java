@@ -1,7 +1,7 @@
 package section13_Interfaces.application.model.service;
 
-import section13_Interfaces.model.entities.CarRental;
-import section13_Interfaces.model.entities.Invoice;
+import section13_Interfaces.application.model.entities.CarRental;
+import section13_Interfaces.application.model.entities.Invoice;
 
 public class RentalService {
 

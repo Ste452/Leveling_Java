@@ -1,4 +1,4 @@
-package section13_Interfaces.model.entities;
+package section13_Interfaces.application.model.entities;
 
 public class Invoice {
 
