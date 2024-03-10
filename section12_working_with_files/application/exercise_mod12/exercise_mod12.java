@@ -27,7 +27,6 @@ public class exercise_mod12 {
             File sourceFile = new File(sourceFileStr);
             String sourceFolderStr = sourceFile.getParent();
 
-            boolean success = new File(sourceFolderStr + File.separator + "out").mkdir();
             String targetFileStr = sourceFolderStr + File.separator + "out" + File.separator + "summary.csv";
 
             List<Product> list = new ArrayList<>();

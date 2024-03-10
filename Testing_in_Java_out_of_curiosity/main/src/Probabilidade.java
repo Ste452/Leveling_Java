@@ -2,7 +2,8 @@ package Testing_in_Java_out_of_curiosity.main.src;
 
 public class Probabilidade {
     public static void main(String[] args) {
-        int totalNumeros = Integer.valueOf(25);
+      
+    	int totalNumeros = Integer.valueOf(25);
         int numerosParaAcertar = Integer.valueOf(15);
 
         double probabilidadeDeNaoAcertar = Math.pow(Double.valueOf(totalNumeros - 1) / totalNumeros, numerosParaAcertar);
