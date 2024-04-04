@@ -12,7 +12,7 @@ import java.util.Set;
 
 import section14_Generics_Set_Map.exercise.entities.LogEntry;
 
-public class Program {
+public class ProgramLogEntry {
 
 	public static void main(String[] args) {
 
