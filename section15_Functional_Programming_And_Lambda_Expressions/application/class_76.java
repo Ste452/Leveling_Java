@@ -1,4 +1,4 @@
-package section15_Functional_Programming_And_Lambda_Expressions.exercise.application;
+package section15_Functional_Programming_And_Lambda_Expressions.application;
 
 import java.util.Arrays;
 
@@ -12,6 +12,8 @@ public class class_76 {
 		changeOddValues(vect);
 		System.out.println(Arrays.toString(vect));
 		
+	}
+	
 	public static void changeOddValues(int[] numbers) {
 		for (int i = 0; i < numbers.length; i++) {
 			if (numbers[i] % 2 != 0) {

@@ -1,4 +1,4 @@
-package section15_Functional_Programming_And_Lambda_Expressions.exercise.model.entities;
+package section15_Functional_Programming_And_Lambda_Expressions.model.entities;
 
 public class Product {
 
@@ -29,9 +29,16 @@ public class Product {
 		this.price = price;
 	}
 
+	public static boolean staticProductPredicate(Product p) {
+		return p.getPrice() >= 100.0;
+	}
+	
+	public boolean nonStaticProductPredicate() {
+		return price >= 100.0;
+	} 
+	
 	@Override
 	public String toString() {
 		return "Product [name=" + name + ", price=" + price + "]";
-	}
 	}
 }

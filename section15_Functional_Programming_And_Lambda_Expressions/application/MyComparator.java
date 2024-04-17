@@ -1,8 +1,8 @@
-package section15_Functional_Programming_And_Lambda_Expressions.exercise.application;
+package section15_Functional_Programming_And_Lambda_Expressions.application;
 
 import java.util.Comparator;
 
-import section15_Functional_Programming_And_Lambda_Expressions.exercise.model.entities.Product;
+import section15_Functional_Programming_And_Lambda_Expressions.model.entities.Product;
 
 public class MyComparator implements Comparator<Product> {
 
