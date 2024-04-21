@@ -29,6 +29,8 @@ public class Product {
 		this.price = price;
 	}
 
+	// Class 77
+	
 	public static boolean staticProductPredicate(Product p) {
 		return p.getPrice() >= 100.0;
 	}
@@ -37,12 +39,24 @@ public class Product {
 		return price >= 100.0;
 	} 
 	
+	// Class 78
+	
 	public static void staticPriceUpdate(Product p) {
 		p.setPrice(p.getPrice() * 1.1);
 	}
 	
 	public void nonStaticPriceUpdate() {
 		setPrice(getPrice() * 1.1);
+	}
+	
+	// Class 79
+	
+	public static String staticUpperCaseName(Product p) {
+		return p.getName().toUpperCase();
+	}
+	
+	public String nonStaticUpperCaseName() {
+		return name.toUpperCase();
 	}
 	
 	@Override
