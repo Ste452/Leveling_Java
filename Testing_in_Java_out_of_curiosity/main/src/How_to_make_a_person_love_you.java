@@ -23,6 +23,8 @@ public class How_to_make_a_person_love_you {
 			System.out.println("Dont be afraid because you will to win the love are you want");
 		}
 		
+		
+		
 		sc.close();
 	}
 }
