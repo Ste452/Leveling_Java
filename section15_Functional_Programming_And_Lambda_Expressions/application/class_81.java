@@ -10,8 +10,8 @@ public class class_81 {
 	public static void main(String[] args) {
 		
 		Locale.setDefault(Locale.US);
+		
 		List<Integer> list = Arrays.asList(3, 4, 5, 10, 7);
-
 		
 		Stream<Integer> st1 = list.stream().map(x -> x * 10);
 		
