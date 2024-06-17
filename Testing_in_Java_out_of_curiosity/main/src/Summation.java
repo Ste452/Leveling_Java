@@ -23,18 +23,18 @@ public class Summation {
     }
    
     public static int calculateGeometricProgression(int n) {
-        int sum = 0; // Inicializa a soma como 0
-        int x = 1;   // Inicializa x como 1
+        int sum = 0; // Initialize the sum such as 0
+        int x = 1;   // Initialize x such as 1
 
-        // Loop para somar os números de 1 até n
+        // Loop for sum that numbers in 1 still n
         while (x <= n) {
-            sum += x; // Adiciona x à soma
-            x++;      // Incrementa x
+            sum += x; // Add x for sum
+            x++;      // Increment x
             
             System.out.println("\nCalculations of the sums of arithmetic progression = " + x + " " + sum);
         }
 
-        return sum; // Retorna a soma dos números até n
+        return sum; // Return that sum of integers numbers still n
     }
 }
 
