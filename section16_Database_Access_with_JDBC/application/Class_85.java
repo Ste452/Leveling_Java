@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 import section16_Database_Access_with_JDBC.database.DB;
 
-public class Class_85 {
+public class class_85 {
 
 	public static void main(String[] args) {
 
