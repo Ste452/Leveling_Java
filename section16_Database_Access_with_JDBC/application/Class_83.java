@@ -8,7 +8,7 @@ import java.sql.Statement;
 import section16_Database_Access_with_JDBC.database.DB;
 
 
-public class class_83 {
+public class Class_83 {
 
 	public static void main(String[] args) {
 		

@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import section16_Database_Access_with_JDBC.database.DB;
 import section16_Database_Access_with_JDBC.database.DBIntegrityException;
 
-public class class_86 {
+public class Class_86 {
 
 	public static void main(String[] args) {
 		
