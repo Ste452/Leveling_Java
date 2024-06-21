@@ -4,14 +4,12 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
 import section15_Functional_Programming_And_Lambda_Expressions.exercise_mod15_entities.Employee;
-import section15_Functional_Programming_And_Lambda_Expressions.exercise_mod15_entities.Product;
 
 public class Program {
 
